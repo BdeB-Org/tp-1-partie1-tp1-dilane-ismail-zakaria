@@ -22,7 +22,7 @@
     .barreNav{
         position: absolute;
         height: 100px;
-        width: 22280px;
+        width: 100%;
         left: 0px;
         top: 0px;
         background-color: brown;
@@ -32,14 +32,13 @@
     .LaFerrari{
         position: absolute;
         top: 100px;
-        width : 22280px;
-        height: 1000px;
+        width : 2000px;
     }
     .voiture{
         position: absolute;
         top: 100px;
-        left: 850px;
-        width:60%;
+        left: 750px;
+        width:70%;
         height: auto;
     }
 
@@ -62,3 +61,29 @@
         text-align: justify;
     }
  
+    .titresf90{
+        color:black;
+        font-size: 60px;
+        position: absolute;
+        top: -20px;
+        left: 1300px;
+    }
+    
+    .paragraphesf90{
+        font-family: "Montserrat";
+        color : black;
+        font-size: 20px;
+        position: absolute;
+        top: 100px;
+        left:1200px;
+        width: 500px;
+        text-align: justify;
+    }
+ 
+    .imgsf90{
+        position: absolute;
+        top: -100px;
+        left: -200px;
+        width:80%;
+        height: auto;
+    }
