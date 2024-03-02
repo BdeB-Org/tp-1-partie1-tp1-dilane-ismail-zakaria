@@ -1,0 +1,60 @@
+.images1 {
+    width: 55%;
+    float: right;
+    margin-top: -100px; 
+    margin-right: -150px; 
+}
+.pos_cen {
+    width: 70%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.Soustitre {
+    padding-left: 7.5%;
+    padding-top: 4%;
+    font-size: 60px;
+}
+body {
+    margin: 0; 
+    padding: 0; 
+}
+
+.top-bar {
+    background-color: #40494d; 
+    height: 100px; 
+    width: 100%; 
+    padding: 0;
+    margin: 0; 
+}
+.top-bar h1,
+.top-bar h2,
+.top-bar h3 {
+    display: inline-block; 
+    margin-right: 150px; 
+    font-size: 30px;
+    color: white;
+    padding-left: 2%;
+}
+.txt {
+    width: 30%;
+    font-size: 20px;
+    text-align: justify;
+    padding-bottom: 1%;
+    margin-bottom: -30px;
+}
+.top-bar2 {
+    background-color: #530b0b; 
+    height: 100px; 
+    width: 100%; 
+    padding: 0;
+    margin: 0; 
+}
+.top-bar2 h1,
+.top-bar2 h2,
+.top-bar2 h3 {
+    display: inline-block; 
+    margin-right: 150px; 
+    font-size: 30px;
+    color: white;
+    padding-left: 2%;
+}
